@@ -8,9 +8,6 @@ This is a simple password generator created using React. It allows you to genera
 * Automatically copies the generated password to the clipboard for easy use.
 * Responsive design for use on desktop and mobile devices.
 
-### Possible Future Feature
-* Option to use a known word in the generated password for easier memorization.
-
 ### Installation
 To run this application locally, you must have Node.js and npm installed on your computer. Then, follow these steps:
 
@@ -29,12 +26,3 @@ To use the password generator, simply adjust the length and requirements of your
 3. Click the "Generate Password" button.
 4. Your generated password will appear in the password field and be copied to the clipboard automatically.
 -->
-
-### Demo
-A live demo of this project is available at https://asaggse.github.io/password-generator-react/
-
-### Contributing
-If you have any suggestions or issues, feel free to open a pull request or issue on the GitHub repository.
-
-### License
-This project is licensed under the MIT License.
